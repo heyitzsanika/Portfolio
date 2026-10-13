@@ -1,0 +1,9 @@
+{
+  "name": "sanika-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static portfolio website for Sanika Sabale",
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}
